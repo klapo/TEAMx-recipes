@@ -1,0 +1,11 @@
+.previously_needed
+.idea
+.ipynb_checkpoints
+.DS_Store
+*.pyc
+build/
+dist/
+*.egg-info/
+*.egg
+*.zip
+

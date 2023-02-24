@@ -1,0 +1,45 @@
+internal ID,Stationsname,Longitude,Latitude,institute,Instruments 
+9016,Kufstein,12.162778,47.575279,GeoSphere Austria,Weather station
+9105,Kirchdorf,12.463056,47.566113,GeoSphere Austria,Weather station
+9110,Koessen,12.393888,47.662777,GeoSphere Austria,Weather station
+11803,Innsbruck-Univ.,11.384167,47.259998,GeoSphere Austria,Weather station
+11804,Innbruck-Flugplatz,11.356667,47.259998,GeoSphere Austria,Weather station
+12015,Alpbach,11.940278,47.396946,GeoSphere Austria,Weather station
+12203,Kitzbühel,12.389167,47.44389,GeoSphere Austria,Weather station
+12215,Hahnenkamm-Ehrenbachhöhe,12.359167,47.418335,GeoSphere Austria,Weather station
+14812,Patscherkofel,11.462222,47.208889,GeoSphere Austria,Weather station
+14822,Rinn,11.503889,47.249168,GeoSphere Austria,Weather station
+,Innsbruck City ,11.384986,47.264083,ACINN ,Lidar
+,Innsbruck City ,11.38529,47.26431,ACINN ,Lidar
+101,Kolsass ,11.622231,47.30529,ACINN ,Weather station + turbulence
+,Kolsass ,11.622231,47.30529,ACINN ,DTS
+,Nafingalm (crest) ,11.730115,47.203005,ACINN ,Weather station
+,Nafingalm (ridge) ,11.721276,47.208202,ACINN ,Weather station
+,"Nafingalm (valley) 
+ ",11.712628,47.215142,ACINN ,Weather station
+,Innsbruck Airport ,11.35534,47.2598,Austro Control ,Radiosonde
+,Nafingalm (valley) ,11.713,47.212,DLR ,UAS
+,Nafingalm (valley) ,11.71265,47.215171,"DLR 
+ ",Turbulence
+,Brannenburg ,12.121712,47.74236,DWD ,Weather station
+,Brannenburg ,12.122187,47.741547,DWD ,Lidar
+,Brannenburg ,12.121785,47.742376,DWD ,Radiosonde
+,Brannenburg ,12.121808,47.74284,DWD ,UAS
+,Flintsbach ,12.127413,47.728401,DWD ,Weather station
+,Hohe Asten ,12.115288,47.703476,DWD ,Weather station
+,Kiefersfelden ,12.202737,47.607147,DWD ,Weather station
+,Oberaudorf ,12.180008,47.654282,DWD ,Weather station
+,Kufstein ,12.16278,47.57528,GeoSphere Austria ,Ceilometer
+,Kufstein ,12.16278,47.57528,GeoSphere Austria ,Lidar
+,Innsbruck City ,11.384986,47.264083,KIT IMK-IFU ,Lidar
+,Fritzens ,11.63941,47.32166,KIT IMK-TRO ,Horizontal Lidar
+,Kolsass ,11.622231,47.30529,KIT IMK-TRO ,Cloud radar
+,Kolsass ,11.622231,47.30529,KIT IMK-TRO ,Lidar
+,"Kolsass 
+ ",11.622231,47.30529,KIT IMK-TRO ,Lidar
+,Terfens ,11.61375,47.309358,KIT IMK-TRO ,Horizontal Lidar
+102,Terfens ,11.65247,47.25538,ACINN ,Weather station + turbulence
+103,Eggen,11.6162,47.3165,ACINN ,Weather station + turbulence
+104,Weerberg,11.672969,47.299754,ACINN ,Weather station + turbulence
+105,Hochhäuser,11.63122,47.28755,ACINN ,Weather station + turbulence
+106,Arbeser,11.746592,47.320654,ACINN ,Weather station + turbulence
