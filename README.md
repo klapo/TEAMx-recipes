@@ -14,8 +14,8 @@ Includes the conda environment used to make the maps.
 
 ## Data
 
-1) SRTM tiles (.hgt files) for the TEAMx study area. Also converted to netcdf.
-2) All site locations for the TEAMx pre-campaign in csv format
+1) SRTM tiles (.hgt files) for the TEAMx study area. Also converted to netcdf. The SRTM data are "Version 3" and fills many of the voids over areas of complex terrain that existed in previous versions. See the [documentation](https://lpdaac.usgs.gov/products/srtmgl1v003/) for more details.
+2) All site locations for the TEAMx pre-campaign in csv format.
 
 ## Helper functions
 
